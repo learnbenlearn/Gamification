@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AssociateTeamAssignment_Utility</members>
+        <members>Point_Utility</members>
+        <name>ApexClass</name>
+    </types>
+
+    <types>
+        <members>AssociateActivityTrigger</members>
+        <members>AssociateTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+
+    <types>
+        <members>Gamification</members>
+        <name>CustomApplication</name>
+    </types>
+
+    <types>
+        <members>Public/PVMrWmUFcmhyfrJxPZSLzxgHRhpWLL<members>
+        <name>Dashboard</name>
+    </types>
+
+    <types>
+        <members>Public</members>
+        <name>DashboardFolder</name>
+    </types>
+
+    <types>
+        <members>Activity__c</members>
+        <members>Associate_Activity__c</members>
+        <members>Associate__c</members>
+        <members>Team__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>Activity__c</members>
+        <members>Associate__c</members>
+        <members>Team__c</members>
+        <name>CustomTab</name>
+    </types>
+
+    <types>
+        <members>Associate_Record_Page</members>
+        <members>Gamification_UtilityBar</members>
+        <members>Home_Page_Default</members>
+        <name>FlexiPage</name>
+    </types>
+
+    <types>
+        <members>Associate_Team_Assignment_Flow</members>
+        <name>Flow</name>
+    </types>
+
+    <types>
+        <members>calculateNegativePointsButton</members>
+        <name>LightningComponentBundle</name>
+    </types>
+
+    <types>
+        <members>LeaderboardReports/Indvidual_Leaderboard_ErM</members>
+        <members>LeaderboardReports/Team_Leaderboard_lER</members>
+        <name>Report</name>
+    </types>
+
+    <types>
+        <members>LeaderboardReports</members>
+        <name>ReportFolder</name>
+    </types>
+    <version>52.0</version>
+</Package>

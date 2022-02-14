@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0058c000009pjARAAY",
+    "createdByName": "Ben Learn",
+    "createdDate": "2022-02-14T06:56:49.000Z",
+    "fileName": "dashboards/Public",
+    "fullName": "Public",
+    "id": "00l8c000002O5NxAAK",
+    "lastModifiedById": "0058c000009pjARAAY",
+    "lastModifiedByName": "Ben Learn",
+    "lastModifiedDate": "2022-02-14T06:56:49.000Z",
+    "manageableState": "unmanaged",
+    "type": "DashboardFolder"
+  }
+}

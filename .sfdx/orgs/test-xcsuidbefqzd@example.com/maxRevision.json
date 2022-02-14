@@ -1,0 +1,227 @@
+{
+  "serverMaxRevisionCounter": 43,
+  "sourceMembers": {
+    "ListView__Activity__c.All": {
+      "serverRevisionCounter": 28,
+      "lastRetrievedFromServer": 28,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Associate__c.All": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Team__c.All": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "CustomField__Associate_Activity__c.Activity__c": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Associate_Activity__c.Associate__c": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Activity__c.Description__c": {
+      "serverRevisionCounter": 9,
+      "lastRetrievedFromServer": 9,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Activity__c.Points__c": {
+      "serverRevisionCounter": 10,
+      "lastRetrievedFromServer": 10,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Associate_Activity__c.Points__c": {
+      "serverRevisionCounter": 11,
+      "lastRetrievedFromServer": 11,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Associate_Activity__c.Submitted_Date__c": {
+      "serverRevisionCounter": 12,
+      "lastRetrievedFromServer": 12,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Associate__c.Primer_End_Date__c": {
+      "serverRevisionCounter": 13,
+      "lastRetrievedFromServer": 13,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Associate__c.Primer_Start_Date__c": {
+      "serverRevisionCounter": 14,
+      "lastRetrievedFromServer": 14,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Associate__c.Team__c": {
+      "serverRevisionCounter": 15,
+      "lastRetrievedFromServer": 15,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Associate__c.Total_Points__c": {
+      "serverRevisionCounter": 17,
+      "lastRetrievedFromServer": 17,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Team__c.Total_Points__c": {
+      "serverRevisionCounter": 18,
+      "lastRetrievedFromServer": 18,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Report__LeaderboardReports/Individual_Leaderboard_ErM": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "Report",
+      "isNameObsolete": false
+    },
+    "Report__LeaderboardReports/Team_Leaderboard_lER": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": 33,
+      "memberType": "Report",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "ReportFolder__LeaderboardReports": {
+      "serverRevisionCounter": 31,
+      "lastRetrievedFromServer": 31,
+      "memberType": "ReportFolder",
+      "isNameObsolete": false
+    },
+    "DashboardFolder__Public": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": 34,
+      "memberType": "DashboardFolder",
+      "isNameObsolete": false
+    },
+    "CustomObject__Activity__c": {
+      "serverRevisionCounter": 23,
+      "lastRetrievedFromServer": 23,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__Associate_Activity__c": {
+      "serverRevisionCounter": 24,
+      "lastRetrievedFromServer": 24,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__Associate__c": {
+      "serverRevisionCounter": 25,
+      "lastRetrievedFromServer": 25,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__Team__c": {
+      "serverRevisionCounter": 26,
+      "lastRetrievedFromServer": 26,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "Dashboard__Public/PVMrWmUFcmhyfrJxPZSLzxgHRhpWLL": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "Dashboard",
+      "isNameObsolete": false
+    },
+    "ApexClass__AssociateTeamAssignment_Utility": {
+      "serverRevisionCounter": 19,
+      "lastRetrievedFromServer": 19,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexClass__Point_Utility": {
+      "serverRevisionCounter": 20,
+      "lastRetrievedFromServer": 20,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexTrigger__AssociateActivityTrigger": {
+      "serverRevisionCounter": 21,
+      "lastRetrievedFromServer": 21,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": false
+    },
+    "ApexTrigger__AssociateTrigger": {
+      "serverRevisionCounter": 22,
+      "lastRetrievedFromServer": 22,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": false
+    },
+    "CustomTab__Activity__c": {
+      "serverRevisionCounter": 39,
+      "lastRetrievedFromServer": 39,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomTab__Associate__c": {
+      "serverRevisionCounter": 40,
+      "lastRetrievedFromServer": 40,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomTab__Team__c": {
+      "serverRevisionCounter": 41,
+      "lastRetrievedFromServer": 41,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomApplication__Gamification": {
+      "serverRevisionCounter": 42,
+      "lastRetrievedFromServer": 42,
+      "memberType": "CustomApplication",
+      "isNameObsolete": false
+    },
+    "ValidationRule__Activity__c.Points_Must_Be_Greater_Than_0": {
+      "serverRevisionCounter": 27,
+      "lastRetrievedFromServer": 27,
+      "memberType": "ValidationRule",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Associate_Record_Page": {
+      "serverRevisionCounter": 36,
+      "lastRetrievedFromServer": 36,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Gamification_UtilityBar": {
+      "serverRevisionCounter": 37,
+      "lastRetrievedFromServer": 37,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Home_Page_Default": {
+      "serverRevisionCounter": 38,
+      "lastRetrievedFromServer": 38,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "Flow__Associate_Team_Assignment_Flow": {
+      "serverRevisionCounter": 43,
+      "lastRetrievedFromServer": 43,
+      "memberType": "Flow",
+      "isNameObsolete": false
+    }
+  }
+}
