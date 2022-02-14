@@ -18,14 +18,10 @@
     </types>
 
     <types>
-        <members>Public/PVMrWmUFcmhyfrJxPZSLzxgHRhpWLL<members>
-        <name>Dashboard</name>
-    </types>
-
-    <types>
         <members>Public</members>
-        <name>DashboardFolder</name>
-    </types>
+		<members>Public/Leaderboard</members>
+		<name>Dashboard</name>
+	</types>
 
     <types>
         <members>Activity__c</members>
@@ -55,12 +51,9 @@
     </types>
 
     <types>
-        <members>calculateNegativePointsButton</members>
-        <name>LightningComponentBundle</name>
-    </types>
-
-    <types>
-        <members>LeaderboardReports/Indvidual_Leaderboard_ErM</members>
+        <members>LeaderboardReports/Activities_by_Popularity_p8i</members>
+        <members>LeaderboardReports/Associates_without_Points_Tfo</members>
+        <members>LeaderboardReports/Individual_Leaderboard_ErM</members>
         <members>LeaderboardReports/Team_Leaderboard_lER</members>
         <members>LeaderboardReports/Team_Points_by_Associate_Mr8</members>
         <name>Report</name>
