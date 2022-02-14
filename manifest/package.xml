@@ -62,6 +62,7 @@
     <types>
         <members>LeaderboardReports/Indvidual_Leaderboard_ErM</members>
         <members>LeaderboardReports/Team_Leaderboard_lER</members>
+        <members>LeaderboardReports/Team_Points_by_Associate_Mr8</members>
         <name>Report</name>
     </types>
 
